@@ -1,3 +1,19 @@
+
+# Weather App
+
+A simple weather application built with React. This app allows users to search for a city and view the weather forecast for the next three days.
+
+## Features
+
+- Search for cities to get a weather forecast
+- View daily weather conditions, including temperature and weather icons
+- Error handling for invalid city inputs
+
+## Technologies
+
+- React
+- WeatherAPI for weather data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
